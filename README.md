@@ -6,7 +6,11 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
 
 ## Keywords Convention
 
+![](https://img.shields.io/badge/COCONUT-blue) Abbreviation
+
 ![](https://img.shields.io/badge/ACL2025-orange) Conference
+
+![](https://img.shields.io/badge/Analysis-green) Main Features
 
 ## Papers
 
@@ -22,3 +26,12 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
   *Martin Kuo, Jianyi Zhang, Aolin Ding, Qinsi Wang, Louis DiValentin, Yujia Bao, Wei Wei, Hai Li, Yiran Chen*. [[pdf](https://arxiv.org/pdf/2502.12893)], 2025.2.27(v2) ![](https://img.shields.io/badge/Arxiv-orange)
 - **Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models**
   *Meghana Rajeev, Rajkumar Ramamurthy, Prapti Trivedi, Vikas Yadav, Oluwanifemi Bamgbose, Sathwik Tejaswi Madhusudan, James Zou, Nazneen Rajani*. [[pdf](https://arxiv.org/pdf/2503.01781)], 2025.3.3 ![](https://img.shields.io/badge/Arxiv-orange)
+
+
+## Resources
+
+## Acknowledgements
+
+- We acknowledge that some important works in this field may be missing from this list. We warmly welcome contributions to help us improve!
+- If you would like to promote your work or suggest other relevant papers, please feel free to open an issue. Your contributions are greatly appreciated, and we thank you in advance for helping enhance this resource!  
+- Special thanks to [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning) for their repository, which inspired the structure and template of this project.
