@@ -34,4 +34,4 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
 
 - We acknowledge that some important works in this field may be missing from this list. We warmly welcome contributions to help us improve!
 - If you would like to promote your work or suggest other relevant papers, please feel free to open an issue. Your contributions are greatly appreciated, and we thank you in advance for helping enhance this resource!  
-- Special thanks to [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning) for their repository, which inspired the structure and template of this project.
+- Special thanks to [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), which inspired the structure and template of this project.
