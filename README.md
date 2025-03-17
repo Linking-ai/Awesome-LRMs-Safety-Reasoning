@@ -52,7 +52,8 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
   *Yue Liu, Hongcheng Gao, Shengfang Zhai, Jun Xia, Tianyi Wu, Zhiwei Xue, Yulin Chen, Kenji Kawaguchi, Jiaheng Zhang, Bryan Hooi*. [[pdf](https://arxiv.org/abs/2501.18492)] [[data](https://huggingface.co/datasets/yueliu1999/GuardReasonerTrain)], 2025.1.31 ![](https://img.shields.io/badge/ICLR2025_FM_Wild_Workshop-orange) ![](https://img.shields.io/badge/GuardReasoner-blue) ![](https://img.shields.io/badge/dataset-green) 
 
 ### Other Work
-
+- **Are Smarter LLMs Safer? Exploring Safety-Reasoning Trade-offs in Prompting and Fine-Tuning**
+  *Ang Li, Yichuan Mo, Mingjie Li, Yifei Wang, Yisen Wang*. [[pdf](https://arxiv.org/pdf/2502.09673)], 2025.2.21(v2) ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green) 
 
 ## Resources
 Reading lists related to LLMs/LRMs safety:
