@@ -4,6 +4,7 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
 
 ## Content
 
+- [Content](#content)
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
   - [Dataset and Systematical Study](#dataset-and-systematical-study)
@@ -68,6 +69,8 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
   *Rubing Li, João Sedoc, Arun Sundararajan*. [[pdf](https://arxiv.org/pdf/2502.12825)], 2025.2.6 ![](https://img.shields.io/badge/Arxiv-orange)
 - **Investigating the Impact of Quantization Methods on the Safety and Reliability of Large Language Models**
   *Artyom Kharinaev, Viktor Moskvoretskii, Egor Shvetsov, Kseniia Studenikina, Bykov Mikhail, Evgeny Burnaev*. [[pdf](https://arxiv.org/abs/2502.15799)], 2025.2.18 ![](https://img.shields.io/badge/Arxiv-orange)
+- **Output Length Effect on DeepSeek-R1's Safety in Forced Thinking**
+  *Xuying Li, Zhuo Li, Yuji Kosuga, Victor Bian*. [[pdf](https://arxiv.org/abs/2503.01923)], 2025.3.2 ![](https://img.shields.io/badge/Arxiv-orange)
 
 
 ## Resources
