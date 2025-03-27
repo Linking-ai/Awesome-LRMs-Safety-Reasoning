@@ -54,9 +54,25 @@ A curated paper list on **safety in reasoning of Large Reasoning Models (LRMs)**
 ### Other Work
 - **Are Smarter LLMs Safer? Exploring Safety-Reasoning Trade-offs in Prompting and Fine-Tuning**
   *Ang Li, Yichuan Mo, Mingjie Li, Yifei Wang, Yisen Wang*. [[pdf](https://arxiv.org/pdf/2502.09673)], 2025.2.21(v2) ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Analysis-green) 
+- **OverThink: Slowdown Attacks on Reasoning LLMs**
+  *Abhinav Kumar, Jaechul Roh, Ali Naseh, Marzena Karpinska, Mohit Iyyer, Amir Houmansadr, Eugene Bagdasarian*. [[pdf](https://arxiv.org/pdf/2502.02542)], 2025.2.5(v2) ![](https://img.shields.io/badge/Arxiv-orange)
+- **o3-mini vs DeepSeek-R1: Which One is Safer?**
+  *Aitor Arrieta, Miriam Ugarte, Pablo Valle, José Antonio Parejo, Sergio Segura*. [[pdf](https://arxiv.org/pdf/2501.18438)], 2025.1.31(v2) ![](https://img.shields.io/badge/Arxiv-orange)
+- **Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies**
+  *Manojkumar Parmar, Yuvaraj Govindarajulu*. [[pdf](https://arxiv.org/pdf/2501.17030)], 2025.1.28 ![](https://img.shields.io/badge/Arxiv-orange)
+- **MetaSC: Test-Time Safety Specification Optimization for Language Models**
+  *Víctor Gallego*. [[pdf](https://arxiv.org/pdf/2502.07985)], 2025.2.11 ![](https://img.shields.io/badge/Arxiv-orange)
+- **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**
+  *Haoyu Wang, Zeyu Qin, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao*. [[pdf](https://arxiv.org/pdf/2502.04040)], 2025.2.6 ![](https://img.shields.io/badge/Arxiv-orange)
+- **Reasoning and the Trusting Behavior of DeepSeek and GPT: An Experiment Revealing Hidden Fault Lines in Large Language Models**
+  *Rubing Li, João Sedoc, Arun Sundararajan*. [[pdf](https://arxiv.org/pdf/2502.12825)], 2025.2.6 ![](https://img.shields.io/badge/Arxiv-orange)
+- **Investigating the Impact of Quantization Methods on the Safety and Reliability of Large Language Models**
+  *Artyom Kharinaev, Viktor Moskvoretskii, Egor Shvetsov, Kseniia Studenikina, Bykov Mikhail, Evgeny Burnaev*. [[pdf](https://arxiv.org/abs/2502.15799)], 2025.2.18 ![](https://img.shields.io/badge/Arxiv-orange)
+
 
 ## Resources
 Reading lists related to LLMs/LRMs safety:
+- [LightChen233/Awesome-Long-Chain-of-Thought-Reasoning](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
 - [tjunlp-lab/Awesome-LLM-Safety-Papers](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers)
 - [ianitow/awesome-guardrails-llm-papers](https://github.com/ianitow/awesome-guardrails-llm-papers)
 
